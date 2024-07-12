@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ict939_lab4</string>
+    <string name="logo">LOGO</string>
+    <string name="scrollShips">Scroll Ships</string>
+    <string name="scrollPeople">Scroll People</string>
+    <string name="StarshipName">Starship Name \nREGISTRY</string>
+</resources>
